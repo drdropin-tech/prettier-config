@@ -1,0 +1,9 @@
+{
+  "name": "@drdropin-tech/prettier-config",
+  "version": "1.0.0",
+  "description": "Dr. Dropin Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:drdropin-tech/prettier-config.git",
+  "author": "Garth Bjerk <garth@drdropin.no>",
+  "license": "MIT"
+}
