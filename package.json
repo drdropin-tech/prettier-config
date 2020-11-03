@@ -1,9 +1,19 @@
 {
   "name": "@drdropin-tech/prettier-config",
   "version": "1.0.0",
-  "description": "Dr. Dropin Prettier config",
+  "description": "Dr. Dropin prettier config",
   "main": "index.json",
-  "repository": "git@github.com:drdropin-tech/prettier-config.git",
-  "author": "Garth Bjerk <garth@drdropin.no>",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drdropin-tech/prettier-config.git"
+  },
+  "author": "Garth Bjerk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drdropin-tech/prettier-config/issues"
+  },
+  "homepage": "https://github.com/drdropin-tech/prettier-config#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
